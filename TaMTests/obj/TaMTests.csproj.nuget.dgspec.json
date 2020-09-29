@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TaMTests\\TaMTests.csproj": {}
+  },
+  "projects": {
+    "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TaMTests\\TaMTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TaMTests\\TaMTests.csproj",
+        "projectName": "TaMTests",
+        "projectPath": "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TaMTests\\TaMTests.csproj",
+        "packagesPath": "C:\\Users\\ethan\\.nuget\\packages\\",
+        "outputPath": "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TaMTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ethan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TheseusAndMinotaur\\TheseusAndMinotaur\\TheseusAndMinotaur.csproj": {
+                "projectPath": "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TheseusAndMinotaur\\TheseusAndMinotaur\\TheseusAndMinotaur.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TheseusAndMinotaur\\TheseusAndMinotaur\\TheseusAndMinotaur.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TheseusAndMinotaur\\TheseusAndMinotaur\\TheseusAndMinotaur.csproj",
+        "projectName": "TheseusAndMinotaur",
+        "projectPath": "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TheseusAndMinotaur\\TheseusAndMinotaur\\TheseusAndMinotaur.csproj",
+        "packagesPath": "C:\\Users\\ethan\\.nuget\\packages\\",
+        "outputPath": "F:\\BCDE222 - Programming Practices (C#.NET)\\Assignment #2\\TheseusAndMinotaur\\TheseusAndMinotaur\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ethan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
